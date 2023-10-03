@@ -1,0 +1,56 @@
+# Changelog
+
+## 1.0.0 (2023-10-03)
+
+
+### Features
+
+* add a landing page for the mobile app ([#459](https://github.com/openfoodfacts/openfoodfacts-web/issues/459)) ([a420acc](https://github.com/openfoodfacts/openfoodfacts-web/commit/a420acce413d8199d96b8d9125a474dbf9a4cda9))
+* add links for app visuals ([4f9f6b4](https://github.com/openfoodfacts/openfoodfacts-web/commit/4f9f6b451875d3102a9bf4bc6fad49fae64cd80e))
+* add script to build knowledge panel content ([#443](https://github.com/openfoodfacts/openfoodfacts-web/issues/443)) ([0f3db5e](https://github.com/openfoodfacts/openfoodfacts-web/commit/0f3db5e786522a71a30d074a49b79ed441df50ff))
+* add UTM parameters to stores on app page ([50c5d75](https://github.com/openfoodfacts/openfoodfacts-web/commit/50c5d756f2ad43fabb6cfe52e68900b0becaf367))
+* Create presskit-nutriscore-logos.html ([1f521a8](https://github.com/openfoodfacts/openfoodfacts-web/commit/1f521a8f385ec33611227532955c2404dc1868ea))
+
+
+### Bug Fixes
+
+* add ecoscore and un sdg logos ([ad5931f](https://github.com/openfoodfacts/openfoodfacts-web/commit/ad5931f9df56d37b8be2c742fe7ea56dec3b3d04))
+* add new Eco-Score logos ([1d1cea5](https://github.com/openfoodfacts/openfoodfacts-web/commit/1d1cea5a16bc666f85419eef36452864dcd646e0))
+* add selected logos ([f3078eb](https://github.com/openfoodfacts/openfoodfacts-web/commit/f3078eb938e68d83335a7a2a65e94418134ea029))
+* add utms to contribute.html ([fa16ca0](https://github.com/openfoodfacts/openfoodfacts-web/commit/fa16ca08dd64759f7077a9bc1bd9e304fba74934))
+* add variants promo ([4c7e73c](https://github.com/openfoodfacts/openfoodfacts-web/commit/4c7e73c775eee46994fa49b5abd232bd23cc9417))
+* always add utm query parameters ([45daa1b](https://github.com/openfoodfacts/openfoodfacts-web/commit/45daa1bd9e9ab288120fd4b490aad9cd1c827d83))
+* app image ([5b60f6a](https://github.com/openfoodfacts/openfoodfacts-web/commit/5b60f6a46ea6f1fbc441c4089a2b4a423d559ea3))
+* app visuals ([cef84b9](https://github.com/openfoodfacts/openfoodfacts-web/commit/cef84b92ba373afee87b35146989894be295f3a9))
+* base url for mobile-features ([95c94d4](https://github.com/openfoodfacts/openfoodfacts-web/commit/95c94d4d06ef86ebb72ef09d53aa4aad5635137a))
+* beautify the newsletter for journalists ([5d87799](https://github.com/openfoodfacts/openfoodfacts-web/commit/5d877990b5e3826356b9468b8ea33c5f92407c91))
+* bind app visuals ([4ddd2b2](https://github.com/openfoodfacts/openfoodfacts-web/commit/4ddd2b2fb612ce4ed5e5b691a303d81ffae127b0))
+* buttons ([2b4eeaf](https://github.com/openfoodfacts/openfoodfacts-web/commit/2b4eeafe355c8816f33757b2452d0257cdcb87d2))
+* center key facts ([fe5fd3b](https://github.com/openfoodfacts/openfoodfacts-web/commit/fe5fd3b1a8b90ebd2f4242889eecab8a4f53fa0e))
+* contacts ([a97ff4a](https://github.com/openfoodfacts/openfoodfacts-web/commit/a97ff4a18a489a7904b8d9ead864e41fa3f98b8a))
+* Emphasis on all the things ([e443471](https://github.com/openfoodfacts/openfoodfacts-web/commit/e443471a607aaf9111cb5ff05da5ac333683a9c0))
+* equalize ([10b920c](https://github.com/openfoodfacts/openfoodfacts-web/commit/10b920c42872c335991e964acb189447de2251fd))
+* features ([89b1e57](https://github.com/openfoodfacts/openfoodfacts-web/commit/89b1e57bbf68c7cf2ba2606dceb7e46e01faa307))
+* fix OFF logos ([f72722a](https://github.com/openfoodfacts/openfoodfacts-web/commit/f72722ac5003d005fd33a5c1b3d52226ff601dcf))
+* fix playstore badge URL ([f2ad516](https://github.com/openfoodfacts/openfoodfacts-web/commit/f2ad5165d6a2a9a5bb7b70572a14b26fb779f46f))
+* images in numbers selected ([79981b7](https://github.com/openfoodfacts/openfoodfacts-web/commit/79981b7784aa38f889829961aab55e5d0c3c6169))
+* indentation ([195d7f9](https://github.com/openfoodfacts/openfoodfacts-web/commit/195d7f9b7cbd196834bda39a2ccc7e2b91185b2d))
+* keyfacts titles ([fc2d59a](https://github.com/openfoodfacts/openfoodfacts-web/commit/fc2d59a8c2d975e998a374d8f93bfdf8e4a3d255))
+* logo ([5c251f3](https://github.com/openfoodfacts/openfoodfacts-web/commit/5c251f39da88536719c22222723c49b2b248be52))
+* logos ([ffa0368](https://github.com/openfoodfacts/openfoodfacts-web/commit/ffa0368d86bc0ceafb9d76c24432721e2c70b57f))
+* nutriscore logos ([24a6241](https://github.com/openfoodfacts/openfoodfacts-web/commit/24a6241a10153ec4e6e97d7ab64c883f4c8cb8f1))
+* presskit ([22d9516](https://github.com/openfoodfacts/openfoodfacts-web/commit/22d9516646111a3c40426767add18042c37c60d5))
+* Presskit fixes ([e06b589](https://github.com/openfoodfacts/openfoodfacts-web/commit/e06b5898f0689503c6b97d7d4e2c5601d814b0dc))
+* radius on presskit_selection.html ([9f15822](https://github.com/openfoodfacts/openfoodfacts-web/commit/9f1582200e74085df8eb693af951cd2ef31d7c17))
+* reorder presskit ([fc888d6](https://github.com/openfoodfacts/openfoodfacts-web/commit/fc888d6420821a29ce30e8110a786ef60d339e24))
+* selected logos ([77cb907](https://github.com/openfoodfacts/openfoodfacts-web/commit/77cb907c1b2f0e532e914fa6c33f71b19e3d85d1))
+* structure key facts ([26b04cf](https://github.com/openfoodfacts/openfoodfacts-web/commit/26b04cf19dd35b8494e6509baddafaf2791c9458))
+* the great equalizer ([2ceafac](https://github.com/openfoodfacts/openfoodfacts-web/commit/2ceafac75912f99b3eb3ec69ae38317d31ff8003))
+* un sdg ([2f7b163](https://github.com/openfoodfacts/openfoodfacts-web/commit/2f7b1637a33e385bc505c92a77434fb11bc2d840))
+* update app landing page for fr ([551defc](https://github.com/openfoodfacts/openfoodfacts-web/commit/551defca9a8b30c988991f4f7dc825698ae71a37))
+* Update keyfacts.html ([9beeec2](https://github.com/openfoodfacts/openfoodfacts-web/commit/9beeec2587127e6943c8b02e9c6fc96adcf2bf73))
+* Update presskit.html ([5784f86](https://github.com/openfoodfacts/openfoodfacts-web/commit/5784f86e71629f2dcf2b0b8953443b1e2a7888d8))
+* utm for eco-score-the-environmental-impact-of-food-products.html ([b5b20ef](https://github.com/openfoodfacts/openfoodfacts-web/commit/b5b20ef4b584638a5627ca6053f139fcb3077ad9))
+* utm for mobile-app-promo-processing.html ([7ec3da5](https://github.com/openfoodfacts/openfoodfacts-web/commit/7ec3da546fbf791f01a02062abc510cb85381ce4))
+* utms for mobile-app-promo-nutriscore.html ([06a62d1](https://github.com/openfoodfacts/openfoodfacts-web/commit/06a62d1739e48bb69618abffa9c74f5e372c156e))
+* utms in discover ([1b156a4](https://github.com/openfoodfacts/openfoodfacts-web/commit/1b156a488daa4427470402faed0ad98ee8e640d9))
